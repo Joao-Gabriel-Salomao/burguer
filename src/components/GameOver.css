@@ -1,0 +1,24 @@
+#gameover{
+    text-align: center;
+    max-width: 500px;
+    flex-direction: column;
+}
+
+#gameover h1, #gameover h2{
+    margin-bottom: 1rem;
+}
+
+#gameover h1{
+    text-shadow: 1px 1px rgb(255, 0, 0);
+}
+
+#gameover h2{
+    color: blueviolet;
+    font-style: italic;
+    text-shadow: 1px 1px rgb(255, 255, 255);
+}
+
+#gameover button{
+    margin: 10px;
+    border: 2px solid #fff;
+}
